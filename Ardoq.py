@@ -36,7 +36,7 @@ def largestproduct(list):
     else: return prod2 
 
 
-arr = [5, 6, 7, -10, -12, -3]
+arr = [5, 6, 7, -10, -12, -3, 20, 5]
 print(largestproduct(arr))
 
 
